@@ -1,0 +1,57 @@
+{
+  "authority_boundary": "This receipt verifies a local case card. It cannot revive a claim, clear private-first, publish, mail, commit, or push.",
+  "case_id": "PHY-14",
+  "checks": {
+    "core_matches_live_ledger": "PASS",
+    "declared_source_hashes": "PASS",
+    "frozen_live_file_and_ledger": "PASS",
+    "governed_annotations": "PASS",
+    "live_g23_closeouts": "PASS_OR_NOT_APPLICABLE",
+    "private_first_public_gate": "NOT_TRIGGERED",
+    "semantic_continuity": "V1_ACCEPTED_UNCHANGED"
+  },
+  "claim_authority": "NONE",
+  "decision_reasons": [
+    "The case stayed byte-identical to its accepted V1 card and all current custody checks pass."
+  ],
+  "disposition": "POSTABLE_AS_COLD_CASE",
+  "public_catalog_eligible": true,
+  "receipt_sha256": "2043f831399be4df2286c71fa0b29eda861f29f4dfe97128c5a0632dcb4a1f47",
+  "route_id": "COLD_CASE_PIPELINE_CURRENT_INDEX_REVERIFICATION_V3",
+  "schema": "aletheia.cold-case-live-verification.v3",
+  "source_bindings": {
+    "case_file": "/Users/bo/data/adp/investigations/cold_case_sweep_2026-08-26/cases/COLD_CASE_PHY-14.md",
+    "case_file_sha256": "cc5d1ce215bb692b402f10f7873ec3b7da7b7626492670567a26c8571a07f8fe",
+    "declared_sources": [
+      {
+        "declared_sha256": "14addfb9c2ee82f3b6af82d7efe304eb876bac3f8d28771466e1764121506128",
+        "g23_currency": "CURRENT_PASS",
+        "g23_failures": [],
+        "hash_matches": true,
+        "observed_sha256": "14addfb9c2ee82f3b6af82d7efe304eb876bac3f8d28771466e1764121506128",
+        "path": "/Users/bo/data/adp/investigations/black_hole_quantum_computer_seti_crack_hunt_2026-08-06/RUN_LESSON_CLOSEOUT.json"
+      },
+      {
+        "declared_sha256": "4d73e1c43ab7dcc4432eb4ede33c2c604e0eb1cb77e9904b6f70db72668eac5f",
+        "g23_currency": "CURRENT_PASS",
+        "g23_failures": [],
+        "hash_matches": true,
+        "observed_sha256": "4d73e1c43ab7dcc4432eb4ede33c2c604e0eb1cb77e9904b6f70db72668eac5f",
+        "path": "/Users/bo/data/adp/investigations/bhqc_sparse_background_likelihood_2026-08-14_v1/RUN_LESSON_CLOSEOUT.json"
+      }
+    ],
+    "ledger": "/Users/bo/data/adp/investigations/cold_case_sweep_2026-08-26/COLD_CASE_LEDGER.csv",
+    "ledger_row_sha256": "1c229c035ef439b7236e1f71801c4f0b8fb729eafee5e4734a319577a0671009",
+    "ledger_sha256": "43f656121adc1a155d92f579711f8d98f623876d7d1ed0a2c82019c140c28afe",
+    "semantic_adjudication": {
+      "path": "/Users/bo/data/adp/investigations/cold_case_pipeline_2026-08-26_v1/09_live_reverification/LIVE_EDIT_SEMANTIC_ADJUDICATION_V2.md",
+      "sha256": "858787a6d4dcd7b10913735756bf3646fa3e731f7071c84f956f54aba34efa9c"
+    },
+    "v1_final_receipt": {
+      "bytes": 2045,
+      "path": "/Users/bo/data/adp/investigations/cold_case_pipeline_2026-08-26_v1/02_case_verification_final/PHY-14.json",
+      "sha256": "d610411174ebc963255dbd4d1a403213f6f0f8c4d9f8f15cb2628b9082f3b8a5"
+    }
+  },
+  "verdict": "ACCEPTED"
+}
