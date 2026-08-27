@@ -45,3 +45,4 @@ versioned test before a single conclusion changes. Every claim in every
 file carries an explicit ceiling — the most it could ever prove.
 
 Have the missing piece for any case? bo@projectaletheia.org
+| Exoplanet periods lean off Benford's law, same direction every survey | [cold-case-benford-exoplanet-digits](https://github.com/0100001001101111/cold-case-benford-exoplanet-digits) |
