@@ -10,6 +10,24 @@ that would settle it. If you have that piece, the case can reopen.
 Live cards with the plain-language version of every case:
 https://projectaletheia.org/cold-cases
 
+
+## The case repos
+
+Each case is its own repository — this hub is the index:
+
+| Case | Repo |
+|---|---|
+| Do repeating fast radio bursts drift? | [cold-case-frb-repeater-drift](https://github.com/0100001001101111/cold-case-frb-repeater-drift) |
+| The 40 Hz hum in a public dream recording | [cold-case-40hz-dream-recording](https://github.com/0100001001101111/cold-case-40hz-dream-recording) |
+| What deaf ears hear when the heart stops | [cold-case-deaf-nde-hearing](https://github.com/0100001001101111/cold-case-deaf-nde-hearing) |
+| The 1894 census that launched psychical research | [cold-case-1894-hallucination-census](https://github.com/0100001001101111/cold-case-1894-hallucination-census) |
+| Anti-gravity claims lack an evidentiary floor | [cold-case-antigravity-evidence-floor](https://github.com/0100001001101111/cold-case-antigravity-evidence-floor) |
+| Nine physics anomalies, nine unreleased files | [cold-case-nine-locked-doors-physics](https://github.com/0100001001101111/cold-case-nine-locked-doors-physics) |
+| Earthquake agencies disagree with structure | [cold-case-earthquake-catalog-disagreements](https://github.com/0100001001101111/cold-case-earthquake-catalog-disagreements) |
+| Are black holes computing? | [cold-case-black-hole-computation-search](https://github.com/0100001001101111/cold-case-black-hole-computation-search) |
+| The vibration axis | [cold-case-vibration-axis](https://github.com/0100001001101111/cold-case-vibration-axis) |
+| One verified NDE case in four hundred | [cold-case-crackers-veridical-nde](https://github.com/0100001001101111/cold-case-crackers-veridical-nde) |
+
 ## What's in each folder
 
 - CASE_FILE.md — the full case: what was on the table, how it died with the
